@@ -4,6 +4,7 @@ Welcome to the Flappy Bird Game! This project is a Python-based recreation of th
 # Features
 
 *Alternating Pipe Patterns*: 
+
 The game features a unique pipe arrangement where one pipe comes from above and the next from below, providing an engaging challenge.
 
 *Smooth Graphics*: 
